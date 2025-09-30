@@ -1,0 +1,6 @@
+SublimeLinter-contrib-flay
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to flay.
+
+For more information, please see:
+https://github.com/icnagy/SublimeLinter-contrib-flay
